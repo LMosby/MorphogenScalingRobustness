@@ -1,0 +1,22 @@
+name = "Scaling_05012026"
+uuid = "d02e3174-8166-42bf-aba4-062ae1640ebf"
+authors = ["LMosby <43883573+LMosby@users.noreply.github.com>"]
+version = "0.1.0"
+
+[deps]
+DifferentialEquations = "0c46a032-eb83-5123-abaf-570d42b7fbaa"
+JLD2 = "033835bb-8acc-5ee8-8aae-3f567f8a3819"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+LsqFit = "2fda8390-95c7-5789-9bda-21331edee243"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+Symbolics = "0c5d862f-8b57-4792-8d23-62f2024744c7"
+
+[compat]
+DifferentialEquations = "7.17.0"
+JLD2 = "0.6.3"
+LinearAlgebra = "1.11.0"
+LsqFit = "0.15.1"
+Random = "1.11.0"
+StaticArrays = "1.9.16"
+Symbolics = "7.4.1"
